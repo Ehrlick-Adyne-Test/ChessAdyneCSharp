@@ -31,16 +31,16 @@ ChessAdyne in C#
 
   +  1  +  2  +  3  +  4  +  5  +  6  +  7  +  8
 
--- Put a Knight at (3 , 2)
+-- Put a Knight at (4 , 3)
 -- Plot Possible Next Moves for Knight (4 , 3)
--- Put a NextMove at (4 , 4)
--- Put a NextMove at (4 , 0)
--- Put a NextMove at (5 , 3)
+-- Put a NextMove at (5 , 5)
 -- Put a NextMove at (5 , 1)
+-- Put a NextMove at (6 , 4)
+-- Put a NextMove at (6 , 2)
+-- Put a NextMove at (3 , 5)
+-- Put a NextMove at (3 , 1)
 -- Put a NextMove at (2 , 4)
--- Put a NextMove at (2 , 0)
--- Put a NextMove at (1 , 3)
--- Put a NextMove at (1 , 1)
+-- Put a NextMove at (2 , 2)
 8 + | | + [ ] + | | + [ ] + | | + [ ] + | | + [ ]
 
 7 + [ ] + | | + [ ] + | | + [ ] + | | + [ ] + | |
@@ -59,19 +59,19 @@ ChessAdyne in C#
 
   +  1  +  2  +  3  +  4  +  5  +  6  +  7  +  8
 
--- Put a Bishop at (3 , 2)
+-- Put a Bishop at (4 , 3)
 -- Plot Possible Next Moves for Bishop (4 , 3)
--- Put a NextMove at (4 , 3)
--- Put a NextMove at (4 , 1)
--- Put a NextMove at (2 , 3)
--- Put a NextMove at (2 , 1)
 -- Put a NextMove at (5 , 4)
--- Put a NextMove at (5 , 0)
--- Put a NextMove at (1 , 4)
--- Put a NextMove at (1 , 0)
+-- Put a NextMove at (5 , 2)
+-- Put a NextMove at (3 , 4)
+-- Put a NextMove at (3 , 2)
 -- Put a NextMove at (6 , 5)
--- Put a NextMove at (0 , 5)
+-- Put a NextMove at (6 , 1)
+-- Put a NextMove at (2 , 5)
+-- Put a NextMove at (2 , 1)
 -- Put a NextMove at (7 , 6)
+-- Put a NextMove at (1 , 6)
+-- Put a NextMove at (8 , 7)
 8 + | | + [ ] + | | + [ ] + | | + [ ] +  O  + [ ]
 
 7 + [ ] + | | + [ ] + | | + [ ] +  O  + [ ] + | |
