@@ -1,0 +1,11 @@
+C:\Users\Ehrli\VSC\ChessAdyne\bin\Debug\netcoreapp3.0\ChessAdyne.exe
+C:\Users\Ehrli\VSC\ChessAdyne\bin\Debug\netcoreapp3.0\ChessAdyne.deps.json
+C:\Users\Ehrli\VSC\ChessAdyne\bin\Debug\netcoreapp3.0\ChessAdyne.runtimeconfig.json
+C:\Users\Ehrli\VSC\ChessAdyne\bin\Debug\netcoreapp3.0\ChessAdyne.runtimeconfig.dev.json
+C:\Users\Ehrli\VSC\ChessAdyne\bin\Debug\netcoreapp3.0\ChessAdyne.dll
+C:\Users\Ehrli\VSC\ChessAdyne\bin\Debug\netcoreapp3.0\ChessAdyne.pdb
+C:\Users\Ehrli\VSC\ChessAdyne\obj\Debug\netcoreapp3.0\ChessAdyne.csprojAssemblyReference.cache
+C:\Users\Ehrli\VSC\ChessAdyne\obj\Debug\netcoreapp3.0\ChessAdyne.AssemblyInfoInputs.cache
+C:\Users\Ehrli\VSC\ChessAdyne\obj\Debug\netcoreapp3.0\ChessAdyne.AssemblyInfo.cs
+C:\Users\Ehrli\VSC\ChessAdyne\obj\Debug\netcoreapp3.0\ChessAdyne.dll
+C:\Users\Ehrli\VSC\ChessAdyne\obj\Debug\netcoreapp3.0\ChessAdyne.pdb
