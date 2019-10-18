@@ -45,7 +45,7 @@ namespace ChessAdyne {
         }
 
         public void putPiece (ChessPiece piece) {
-            Console.WriteLine ($"-- Put a {piece.getPieceType().ToString()} at ({x} , {y})");
+            Console.WriteLine ($"-- Put a {piece.getPieceType().ToString()} at ({getDisplayX()} , {getDisplayY()})");
             this.piece = piece;
         }
 
